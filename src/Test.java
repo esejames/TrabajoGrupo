@@ -15,6 +15,7 @@ public class Test {
     lista.registrar("Alejandro");
     lista.registrar("Millan");
     lista.registrar("Cristina");
+    lista.registrar("Juanillo");
     
     
         System.out.printf("El número de invitados es de: %d personas \n", lista.getNumInvitados());
